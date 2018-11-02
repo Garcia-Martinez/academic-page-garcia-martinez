@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Science, Technology and Society",
     "Feminist Theory",
+    "Cultural Studies",
     "Sociology of the Body/Emotions",
     "Digital Ethnography"
   ]
