@@ -20,12 +20,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "Msc in Socio-cultural Analysis of Communication and Knowledge"
+  course = "Master's Degree in Socio-cultural Analysis of Communication and Knowledge"
   institution = "Complutense University of Madrid"
   year = 2019
 
 [[education.courses]]
-  course = "BSc in Sociology"
+  course = "Bachelor's Degree in Sociology"
   institution = "Complutense University of Madrid"
   year = 2018
  
