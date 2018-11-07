@@ -1,5 +1,5 @@
 +++
-title = "El imperativo de la felicidad en el capitalismo emocional"
+title = "Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional (Desire domination: happiness imperative in emotional capitalism)"
 date = 2017-07-31T00:00:00
 draft = false
 
@@ -82,4 +82,4 @@ math = true
 
 +++
 
-More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.
+Molino, M. B., García-Martínez, J., & Herrera, A. J. (2017). Dominar el deseo: el imperativo de la felicidad en el capitalismo emocional. Intersticios. Revista sociológica de pensamiento crítico, 11(2).
