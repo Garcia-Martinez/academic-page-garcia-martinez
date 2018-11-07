@@ -1,4 +1,4 @@
-+++ title = "«Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional» (2017) [Desire domination: happiness imperative in emotional capitalism] [Available online in spanish]. Intersticios: Revista sociológica de pensamiento crítico 11(2)." date = 2017-07-31T00:00:00 draft = false
++++ title = "«Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional». Intersticios: Revista sociológica de pensamiento crítico 11(2)." date = 2017-07-31T00:00:00 draft = false
 
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["Miguel Barrionuevo Molino", "Javier García-Martínez", "Adrián Jurado Herrera"]
@@ -54,10 +54,10 @@ math = true
 
 Featured image
 To use, add an image named featured.jpg/png to your page's folder.
-[image]
+image = content/publication/articles/0001.jpg 
 
 Caption (optional)
-caption = "Image credit: Unsplash"
+caption = "Intersticios"
 
 Focal point (optional)
 Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
