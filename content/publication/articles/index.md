@@ -15,7 +15,7 @@ Legend:
 publication_types = ["2"]
 
 Publication name and optional abbreviated version.
-publication = "Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional [Desire domination: happiness imperative in emotional capitalism]" publication_short = ""
+publication = "Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional [Desire domination: happiness imperative in emotional capitalism]" publication_short = "Dominar el deseo"
 
 Abstract and optional shortened version.
 abstract = "Neoliberalism has comprehended the way to end conflict passes through work-capital and simultaneously keeps increasing workers productivity via the construction of a subject whose affections are assembled in relation with salary and consumer practices. Under the precepts of the human capital theory subjects rationally guide their decisions in terms of investment in order to increase the added value that may be produced, for the final purpose of improving their flux of income, such as how the self as enterprise is conceptualized. Consequently, the full disposition of the worker facing the enterprise logic allows his subjectivity to function under the illusio of neoliberal rationality.
