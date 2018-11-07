@@ -11,24 +11,13 @@ title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 +++
 
-**Articles**
+**Grants**
 
-- «Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional» (2017) [Desire domination: happiness imperative in emotional capitalism] [Available online in spanish]. Miguel Barrionuevo Molino, Javier García-Martínez, Adrián Jurado Herrera. Intersticios: Revista sociológica de pensamiento crítico 11(2). 31/7/2017.
+- 01/11/2017–01/07/2018 **Collaboration Grant**. **"Sociology: Methodology and Theory” Department**. Complutense University of Madrid, Madrid (Spain). Awarded by MECD (Ministerio de Educación, Cultura y Deporte), Spanish Ministery of Education, Culture and Sport.
 
-- «Epicentres of controversy in science publications: Collisions between Openness and Closure» (Working title) [Not published]
-
-
-**Conferences**
-
-II Jornadas de Investigación Social, Facultad de Sociología y Ciencias Políticas de la UCM [II Introduction to Social Research Workshop. Complutense University of Madrid, Sociology and Political Sciencies Faculty]. 
-- Paper on «Análisis de la noticia “Debate a Cuatro” en los telediarios nacionales. 14-6-2016: Un estudio de caso cuantitativo y cualitativo de las lógicas de los medios televisivos.» [Analysis of the "Debate a Cuatro" on national television news. 14-6-2016: Qualitative and quantitative case study of the media news logic]. 5/6/2017. 
-
-VII Encuentro RED ES-CTS [VII Spanish STS Network Conference]. 
-- Presentation on «Cartografiado de controversias participativo: Hacia una metodología simétrica.» [Cartographying participative controversies: Towards a symmetrical methodology]. 1/6/2018. 
-
-I Jornadas de Sociología de las Emociones FES. [I Sociology of Emotions Conference. Spanish Federation of Sociology].
-- Presentation on «Depresión en controversia. Cartografiado participativo de redes discursivas.» [Controversy in depression. Participative cartographies of discourse networks]. 28/6/2018.
+Organization and Coordination of the Conference “Sociología y Big Data: Estableciendo
+aproximaciones convergentes”.
