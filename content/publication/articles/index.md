@@ -1,5 +1,5 @@
 +++
-title = "Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional. Intersticios: Revista sociológica de pensamiento crítico 11(2)." 
+title = "Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional" 
 date = 2017-07-31T00:00:00 
 draft = false
 
