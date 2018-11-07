@@ -17,7 +17,4 @@ weight = 10
 
 **Grants**
 
-- 01/11/2017–01/07/2018 **Collaboration Grant**. **"Sociology: Methodology and Theory” Department**. Complutense University of Madrid, Madrid (Spain). Awarded by MECD (Ministerio de Educación, Cultura y Deporte), Spanish Ministery of Education, Culture and Sport.
-
-Organization and Coordination of the Conference “Sociología y Big Data: Estableciendo
-aproximaciones convergentes”.
+- 01/11/2017–01/07/2018 **Collaboration Grant**. **"Sociology: Methodology and Theory” Department**. Complutense University of Madrid, Madrid (Spain). Awarded by MECD (Ministerio de Educación, Cultura y Deporte), Spanish Ministery of Education, Culture and Sports.
