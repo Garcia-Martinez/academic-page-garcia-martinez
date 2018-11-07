@@ -1,5 +1,7 @@
 +++
-title = "Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional. Intersticios: Revista sociológica de pensamiento crítico 11(2)." date = 2017-07-31T00:00:00 draft = false
+title = "Dominar el deseo: El imperativo de la felicidad en el capitalismo emocional. Intersticios: Revista sociológica de pensamiento crítico 11(2)." 
+date = 2017-07-31T00:00:00 
+draft = false
 
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["Miguel Barrionuevo Molino", "Javier García-Martínez", "Adrián Jurado Herrera"]
